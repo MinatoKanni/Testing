@@ -14,7 +14,7 @@ import com.baseclass.BaseClass;
 
 
 
-    "D:\\backup 03-06-2024\\PreMarket\\src\\test\\java\\com\\feature\\DailyEightFortyTesting.feature"
+    "C:\\Users\\Kanniappan\\git\\repository14\\PreMarket\\src\\test\\java\\com\\feature\\DailyEightFortyTesting.feature"
 
 
 ,glue ={"com.stepdefinition"} , dryRun=false,
@@ -37,4 +37,5 @@ public class Runner {
 	
 
 }   
+
 
